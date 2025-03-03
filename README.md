@@ -14,7 +14,7 @@ I'm a passionate **React Developer** and a **Master's in Computer Application (M
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [https://www.linkedin.com/in/kajalkashyap108/](#)
-- **Email**: your.email@example.com
+- **Email**: kashyapkashyap2212@gmail.com
 - **Portfolio**: [https://my-react-portfolio-main.vercel.app/](#)
 
 ## 💡 Fun Facts
